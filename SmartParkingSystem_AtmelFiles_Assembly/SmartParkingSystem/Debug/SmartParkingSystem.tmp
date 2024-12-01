@@ -1,0 +1,45 @@
+<ASSEMBLER_INFO>
+ <VERSION>2.2.7</VERSION>
+ <DEVICE>"ATmega32"</DEVICE>
+ <WORKING_DIR>E:\STUDY\SEM4\Microprocessor\GroupAssigmnet\U_Assembly\SmartParkingSystem\SmartParkingSystem\Debug</WORKING_DIR>
+ <INCLUDE_PATH>
+  <DIR>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.7.374\avrasm\inc</DIR>
+  <DIR>C:\Program Files (x86)\Atmel\Studio\7.0\toolchain\avr8\avrassembler\Include</DIR>
+  <DIR></DIR>
+ </INCLUDE_PATH>
+ <SOURCE_FILE>E:\STUDY\SEM4\Microprocessor\GroupAssigmnet\U_Assembly\SmartParkingSystem\SmartParkingSystem\main.asm</SOURCE_FILE>
+ <INCLUDED_FILES>
+  <FILE>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.7.374\avrasm\inc\m32def.inc</FILE>
+ </INCLUDED_FILES>
+ <OBJECT_FILES>
+  <FILE>E:\STUDY\SEM4\Microprocessor\GroupAssigmnet\U_Assembly\SmartParkingSystem\SmartParkingSystem\Debug\SmartParkingSystem.obj</FILE>
+ </OBJECT_FILES>
+ <HEX_FILES>
+  <FILE>SmartParkingSystem.hex</FILE>
+ </HEX_FILES>
+ <OUTPUT_FILES>
+  <FILE>SmartParkingSystem.map</FILE>
+  <FILE>SmartParkingSystem.lss</FILE>
+ </OUTPUT_FILES>
+ <LABELS>
+  <start><FILE>E:\STUDY\SEM4\Microprocessor\GroupAssigmnet\U_Assembly\SmartParkingSystem\SmartParkingSystem\main.asm</FILE><LINE>11</LINE></start>
+  <display><FILE>E:\STUDY\SEM4\Microprocessor\GroupAssigmnet\U_Assembly\SmartParkingSystem\SmartParkingSystem\main.asm</FILE><LINE>146</LINE></display>
+  <TEST_SENSOR><FILE>E:\STUDY\SEM4\Microprocessor\GroupAssigmnet\U_Assembly\SmartParkingSystem\SmartParkingSystem\main.asm</FILE><LINE>31</LINE></TEST_SENSOR>
+  <delay><FILE>E:\STUDY\SEM4\Microprocessor\GroupAssigmnet\U_Assembly\SmartParkingSystem\SmartParkingSystem\main.asm</FILE><LINE>153</LINE></delay>
+  <minus><FILE>E:\STUDY\SEM4\Microprocessor\GroupAssigmnet\U_Assembly\SmartParkingSystem\SmartParkingSystem\main.asm</FILE><LINE>99</LINE></minus>
+  <plus><FILE>E:\STUDY\SEM4\Microprocessor\GroupAssigmnet\U_Assembly\SmartParkingSystem\SmartParkingSystem\main.asm</FILE><LINE>66</LINE></plus>
+  <PARKING_FULL><FILE>E:\STUDY\SEM4\Microprocessor\GroupAssigmnet\U_Assembly\SmartParkingSystem\SmartParkingSystem\main.asm</FILE><LINE>56</LINE></PARKING_FULL>
+  <END><FILE>E:\STUDY\SEM4\Microprocessor\GroupAssigmnet\U_Assembly\SmartParkingSystem\SmartParkingSystem\main.asm</FILE><LINE>62</LINE></END>
+  <plus1><FILE>E:\STUDY\SEM4\Microprocessor\GroupAssigmnet\U_Assembly\SmartParkingSystem\SmartParkingSystem\main.asm</FILE><LINE>84</LINE></plus1>
+  <cplus1><FILE>E:\STUDY\SEM4\Microprocessor\GroupAssigmnet\U_Assembly\SmartParkingSystem\SmartParkingSystem\main.asm</FILE><LINE>71</LINE></cplus1>
+  <plus2><FILE>E:\STUDY\SEM4\Microprocessor\GroupAssigmnet\U_Assembly\SmartParkingSystem\SmartParkingSystem\main.asm</FILE><LINE>89</LINE></plus2>
+  <cplus2><FILE>E:\STUDY\SEM4\Microprocessor\GroupAssigmnet\U_Assembly\SmartParkingSystem\SmartParkingSystem\main.asm</FILE><LINE>76</LINE></cplus2>
+  <minus1><FILE>E:\STUDY\SEM4\Microprocessor\GroupAssigmnet\U_Assembly\SmartParkingSystem\SmartParkingSystem\main.asm</FILE><LINE>135</LINE></minus1>
+  <continue1><FILE>E:\STUDY\SEM4\Microprocessor\GroupAssigmnet\U_Assembly\SmartParkingSystem\SmartParkingSystem\main.asm</FILE><LINE>108</LINE></continue1>
+  <minus2><FILE>E:\STUDY\SEM4\Microprocessor\GroupAssigmnet\U_Assembly\SmartParkingSystem\SmartParkingSystem\main.asm</FILE><LINE>140</LINE></minus2>
+  <continue2><FILE>E:\STUDY\SEM4\Microprocessor\GroupAssigmnet\U_Assembly\SmartParkingSystem\SmartParkingSystem\main.asm</FILE><LINE>114</LINE></continue2>
+  <TEST_ZERO><FILE>E:\STUDY\SEM4\Microprocessor\GroupAssigmnet\U_Assembly\SmartParkingSystem\SmartParkingSystem\main.asm</FILE><LINE>127</LINE></TEST_ZERO>
+  <continue3><FILE>E:\STUDY\SEM4\Microprocessor\GroupAssigmnet\U_Assembly\SmartParkingSystem\SmartParkingSystem\main.asm</FILE><LINE>118</LINE></continue3>
+  <delay_loop><FILE>E:\STUDY\SEM4\Microprocessor\GroupAssigmnet\U_Assembly\SmartParkingSystem\SmartParkingSystem\main.asm</FILE><LINE>155</LINE></delay_loop>
+ </LABELS>
+</ASSEMBLER_INFO>

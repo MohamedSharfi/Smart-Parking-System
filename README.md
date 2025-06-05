@@ -8,6 +8,7 @@ the list for main componenets :
   4. 2xLed Inducators.
 
 [The Final C Language Code for the Project](src/mainc.c)
+
 [The Final Assembly Language Code for the Project](src/Mainassembly.txt)
 
 ![breadboard](https://github.com/user-attachments/assets/a66f48c6-60d4-4174-9aee-b41ca66f35d1)
